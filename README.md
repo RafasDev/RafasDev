@@ -16,7 +16,6 @@ Atualmente, estou focado em desenvolvimento full stack e sempre à procura de no
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
 </p>
 
 
@@ -34,4 +33,3 @@ Atualmente, estou focado em desenvolvimento full stack e sempre à procura de no
 
 Pagina de cadastro e de login - Projeto Pessoal feito em PHP
 Gerenciamento clientes pedidos - Projeto Pessoal feito em JAVA
-Controle De Vendas - Projeto Integrador da faculdade feito em PYTHON
