@@ -32,4 +32,5 @@ Atualmente, estou focado em desenvolvimento full stack e sempre à procura de no
 ## 💡 Projetos em destaque:
 
 Pagina de cadastro e de login - Projeto Pessoal feito em PHP
+<br>
 Gerenciamento clientes pedidos - Projeto Pessoal feito em JAVA
