@@ -7,6 +7,20 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Engenha
 
 
 <p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RafasDev&show_icons=true&theme=tokyonight" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafasDev&layout=compact&theme=tokyonight" 
+    height="180"
+  />
+</p>
+
+##🛠️ Tecnologias e Ferramentas
+
+
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
